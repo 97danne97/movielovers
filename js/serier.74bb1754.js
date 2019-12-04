@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["serier"],{"754b":function(e,t,n){"use strict";n.r(t);var s=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},i=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"serier"},[n("h1",[e._v("This is an about page")])])}],r=n("2877"),a={},u=Object(r["a"])(a,s,i,!1,null,null,null);u.options.__file="about.vue";t["default"]=u.exports}}]);
+//# sourceMappingURL=serier.74bb1754.js.map
